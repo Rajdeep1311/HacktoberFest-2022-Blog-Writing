@@ -36,6 +36,8 @@ This repository is based on Blog Writing. We encourage students to write a docum
 - What is the future of DriverLess Cars in INDIA?
 - What is the future of 3D Printing?
 - Is Machine Learning models(DALL-E,IMAGEN,etc.) going to replace Graphic Designers and Video Editors?
+- Service Mesh in Kubernetes
+- Use of ChatGPT3 in DevOps
 
 ## Guidelines to be followed while writing Documentation
 - Minimum words of your blog should be 300.
